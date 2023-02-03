@@ -2,10 +2,6 @@
 
 Different assets use for demo projects at thirdweb.
 
-## Cookie Project
-
-Series of 100 different colored NFTs with a placeholder image. Used for https://cookie-project.xyz
-
 ## Shapes
 
 Series of 30 shapes with a .json and .csv metadata files.
@@ -17,3 +13,11 @@ Series of 5 different colored Stars. Great for quicker demos.
 ## Animated Squares
 
 Series of 5 animated squares in a .gif format- great for testing gifs.
+
+## On Chain Chickens
+
+Series of very small chicken and egg assets you can upload on chain 
+
+## Color Chickens
+
+Series of pixel chicken and egg assets suitable for gaming
